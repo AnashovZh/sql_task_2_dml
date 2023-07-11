@@ -1,0 +1,1 @@
+create table stundents(id serial primary key ,first_name varchar(20) not null,last_name varchar(20),age int ,email varchar unique );
